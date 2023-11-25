@@ -1,7 +1,5 @@
-# Analyzing the Robustness of PECNet
+# G-PECNet
 
 #### Authors:
 > Aryan Garg   
 > Renu M. Rameshan
-
-## Submitted on arxiv on 15th October, 2022
